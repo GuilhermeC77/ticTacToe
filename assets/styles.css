@@ -54,5 +54,7 @@ body {
 .button:hover {
   color: #ffff00;
   opacity: 90%;
-  animation: alternate(1s);
+  transition: 1s;
+  background-color: #34495e;
 }
+
